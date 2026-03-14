@@ -7,7 +7,6 @@ Vehicle lockpicking for locked cars with `ox_target` and `t3_lockpick`.
 - ESX by default
 - Switch to QBCore in `config.lua`
 - Driver door interaction with `ox_target`
-- Uses `t3_lockpick` minigame export
 - Supports multiple inventories with item name `lockpick`
 - English locale with `locales` folder
 
